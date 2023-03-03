@@ -1,6 +1,6 @@
 # Howdy!
 
-I am a comics industry professional-turned-academic administrator-turned software engineer! Proud graduate of the Grace Hopper coding bootcamp (Feb 2023).
+I am a software engineer by day and also a software engineer by night! Proud graduate of the Grace Hopper coding bootcamp (Feb 2023).
 Always excited to find opportunities to learn new things, collaborate with weirdos, do a debugging deep dive, and find ways to make someone else's life easier.
 
 ## Favorite Projects:
@@ -14,7 +14,7 @@ Always excited to find opportunities to learn new things, collaborate with weird
 - **Improv**: After years of auditioning, I made it onto a UCB house time in time to do just one show before the theater shut down from COVID. That *must* be some kind of record.
 - **Sewing**: I enjoy making garments and quilts. Sewing patterns are just algorithms, baby!
 - **Reading**: My book club has been going strong since 2015 and is on our 67th book. Why yes, I do track them in a spreadsheet. 
-- **WNBA**: L! I! B! E! R! T! Y! NEW YORK LIBERTY! Important for you to know: I am a two time winner of my WNBA fantasy draft. 
+- **WNBA**: L! I! B! E! R! T! Y! NEW YORK LIBERTY! Important for you to know: I am a two time winner of my WNBA fantasy league. 
 
 
 
